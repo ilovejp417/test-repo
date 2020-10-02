@@ -5,6 +5,7 @@ def add(x, y):
 
 def subtract(x, y):
     return
+    print("Ha")
 
 
 def multiply(x, y):
