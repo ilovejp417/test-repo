@@ -2,7 +2,7 @@
 
 some text
 
-## I am so bored
+## I love Japan
 
 why ...
 
